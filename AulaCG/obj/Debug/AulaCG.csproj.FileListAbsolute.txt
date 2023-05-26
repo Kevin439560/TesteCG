@@ -1,0 +1,12 @@
+C:\Users\Kevin\Documents\Programas\C#\AulaCG\AulaCG\bin\Debug\AulaCG.exe.config
+C:\Users\Kevin\Documents\Programas\C#\AulaCG\AulaCG\bin\Debug\AulaCG.exe
+C:\Users\Kevin\Documents\Programas\C#\AulaCG\AulaCG\bin\Debug\AulaCG.pdb
+C:\Users\Kevin\Documents\Programas\C#\AulaCG\AulaCG\obj\Debug\AulaCG.csproj.AssemblyReference.cache
+C:\Users\Kevin\Documents\Programas\C#\AulaCG\AulaCG\obj\Debug\AulaCG.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kevin\Documents\Programas\C#\AulaCG\AulaCG\obj\Debug\AulaCG.frmPrincipal.resources
+C:\Users\Kevin\Documents\Programas\C#\AulaCG\AulaCG\obj\Debug\AulaCG.Properties.Resources.resources
+C:\Users\Kevin\Documents\Programas\C#\AulaCG\AulaCG\obj\Debug\AulaCG.csproj.GenerateResource.cache
+C:\Users\Kevin\Documents\Programas\C#\AulaCG\AulaCG\obj\Debug\AulaCG.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\Documents\Programas\C#\AulaCG\AulaCG\obj\Debug\AulaCG.exe
+C:\Users\Kevin\Documents\Programas\C#\AulaCG\AulaCG\obj\Debug\AulaCG.pdb
+C:\Users\Kevin\Documents\Programas\C#\AulaCG\AulaCG\obj\Debug\AulaCG.frmUf.resources
